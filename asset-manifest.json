@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ecommerce/static/css/main.e6c13ad2.css",
+    "main.js": "/Ecommerce/static/js/main.8b1ea917.js",
+    "static/js/453.994a49ab.chunk.js": "/Ecommerce/static/js/453.994a49ab.chunk.js",
+    "static/media/bannerimage.png": "/Ecommerce/static/media/bannerimage.1e3da6ae330d2790daa0.png",
+    "static/media/Img6.png": "/Ecommerce/static/media/Img6.2068693c5e8e644480cb.png",
+    "static/media/Img1.png": "/Ecommerce/static/media/Img1.b6ce490b79c7816f4f8b.png",
+    "static/media/Img3.png": "/Ecommerce/static/media/Img3.bb13d02aad06e551be5c.png",
+    "static/media/achievement.png": "/Ecommerce/static/media/achievement.2d5f025426a3b73fbafd.png",
+    "static/media/Img4.png": "/Ecommerce/static/media/Img4.2073b34fd48c8db790cf.png",
+    "static/media/Img5.png": "/Ecommerce/static/media/Img5.0feb97a34e43765929ec.png",
+    "static/media/exchange.png": "/Ecommerce/static/media/exchange.593d327666006b18f170.png",
+    "static/media/Img2.png": "/Ecommerce/static/media/Img2.05a0c4aa94378ed06e3d.png",
+    "static/media/harvest.png": "/Ecommerce/static/media/harvest.e178ddac8d0d08318b1f.png",
+    "static/media/shipped.png": "/Ecommerce/static/media/shipped.d6f764205b7c156a7490.png",
+    "index.html": "/Ecommerce/index.html",
+    "main.e6c13ad2.css.map": "/Ecommerce/static/css/main.e6c13ad2.css.map",
+    "main.8b1ea917.js.map": "/Ecommerce/static/js/main.8b1ea917.js.map",
+    "453.994a49ab.chunk.js.map": "/Ecommerce/static/js/453.994a49ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8b1ea917.js"
+  ]
+}
